@@ -13,6 +13,8 @@ A simple and interactive To-Do List built with **React** and **Vite**, allowing 
 ## 📸 Screenshot
 
 ![image](https://github.com/user-attachments/assets/d4087a67-0b1c-4a3b-a25f-4135a018507f)
+![image](https://github.com/user-attachments/assets/2180d4ac-8039-477f-bfbf-19dc2527fecb)
+
 
 
 ## 🛠️ Tech Stack
