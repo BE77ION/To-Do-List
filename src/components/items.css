@@ -1,0 +1,33 @@
+.items{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    background-color: rgb(127, 140, 150);
+    padding: 10px 20px;
+    margin: 10px 0;
+    border-radius: 10px;
+
+}
+.item_no{
+
+    font-size: 16px;
+    color: white;
+    text-align: left;
+    font-weight: 500;
+    margin: 0;
+    margin-right: 160px;
+}
+.button-group {
+    display: flex;
+    gap: 2px; 
+}
+
+.items button{
+    margin-left: 8px;
+    padding: 4px 8px;
+    border-radius: 8px;
+    border: 1px solid rgb(98, 91, 91);
+    cursor: pointer;
+    background-color: rgb(255, 255, 255);
+    
+}

@@ -1,0 +1,31 @@
+.container{
+    background-color: rgb(255, 255, 255);
+    justify-content: center;
+    
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.input{
+ display: flex;
+align-items: center;
+flex-direction: column;
+
+}
+.line{
+    font-weight: 800;
+    
+}
+.input_size{
+    font-size: 30px;
+    
+    border-radius: 10px;
+}
+.add_button{
+    font-size: 20px; 
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+   
+
+}
